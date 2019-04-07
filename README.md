@@ -23,6 +23,14 @@ Team Members
 [Bill Domanick](https://github.com/mrMustachos/)
 
 
+
+My Role
+----
+ - Built and architected of the application’s visual language and front-end
+ - Heavily focused on creating scalable and multi purpose React components for collecting and displaying project data to the client
+ - Developed key aspects of UX/UI for the application form interactions, creation of projects and collecting and displaying user generated content
+
+
 Setup
 ----
 - At the root level run:
